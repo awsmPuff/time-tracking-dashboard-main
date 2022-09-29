@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/time-tracking-dashboard-using-grid-and-flexbox-otV6W9XZNe](https://your-solution-url.com)
+- Live Site URL: [https://awsmpuff.github.io/time-tracking-dashboard-main/](https://your-live-site-url.com)
 
 ## My process
 
